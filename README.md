@@ -1,7 +1,7 @@
 # EntregaFinalA3
 Entrega do projeto
 
-Para da Inicio ao Projeto siga os seguintes passos
+##Para da Inicio ao Projeto siga os seguintes passos
 
 1. Abra o terminal
 2. Va para o caminho SRC\control-games-react
