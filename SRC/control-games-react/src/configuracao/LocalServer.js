@@ -1,5 +1,5 @@
 // atualizar ip do servidor local
-const ip = 'meupckinho.ddns.net'
+const ip = 'localhost'
 // atualizar port do servidor, mesma porta do Server.js 
 const port = 3002
 
